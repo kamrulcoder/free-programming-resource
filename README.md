@@ -34,7 +34,11 @@
 * [Android Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5) - Anisul Islam
 * [Android Firebase Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-) - Anisul Islam
 * [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
-* [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
+* [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam* 
+* [Android App Development Bangla Tutorial)](https://www.youtube.com/watch?v=O95uA9b9S-o&list=PLkyGuIcLcmx0jiHcv_dps5wKMKjiI1AuD) - Rabbil hasan Rupom 
+* 
+* 
+* 
 
 
 ### Bootstrap
@@ -95,6 +99,7 @@
 
 * [Java Bangla Tutorials | CORE Java | Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
+* [Mastering Java Object Oriented Programming (OOP)](https://www.youtube.com/watch?v=ld-Bg0E_-kM&list=PLpYvZLXDD2VXzM_9VSJdSynvZaVI-RGbl) - Nasim Hider 
 
 
 ### JavaScript

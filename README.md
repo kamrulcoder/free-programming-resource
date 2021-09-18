@@ -36,9 +36,7 @@
 * [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
 * [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam* 
 * [Android App Development Bangla Tutorial)](https://www.youtube.com/watch?v=O95uA9b9S-o&list=PLkyGuIcLcmx0jiHcv_dps5wKMKjiI1AuD) - Rabbil hasan Rupom 
-* 
-* 
-* 
+
 
 
 ### Bootstrap
